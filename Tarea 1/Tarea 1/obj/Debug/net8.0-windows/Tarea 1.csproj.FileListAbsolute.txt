@@ -1,0 +1,34 @@
+C:\Users\Usuario\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\bin\Debug\net8.0-windows\Tarea 1.exe
+C:\Users\Usuario\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\bin\Debug\net8.0-windows\Tarea 1.deps.json
+C:\Users\Usuario\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\bin\Debug\net8.0-windows\Tarea 1.runtimeconfig.json
+C:\Users\Usuario\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\bin\Debug\net8.0-windows\Tarea 1.dll
+C:\Users\Usuario\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\bin\Debug\net8.0-windows\Tarea 1.pdb
+C:\Users\Usuario\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\obj\Debug\net8.0-windows\Tarea_1.CHAT.resources
+C:\Users\Usuario\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\obj\Debug\net8.0-windows\Tarea 1.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\obj\Debug\net8.0-windows\Tarea 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\obj\Debug\net8.0-windows\Tarea 1.AssemblyInfoInputs.cache
+C:\Users\Usuario\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\obj\Debug\net8.0-windows\Tarea 1.AssemblyInfo.cs
+C:\Users\Usuario\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\obj\Debug\net8.0-windows\Tarea 1.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\obj\Debug\net8.0-windows\Tarea 1.sourcelink.json
+C:\Users\Usuario\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\obj\Debug\net8.0-windows\Tarea 1.dll
+C:\Users\Usuario\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\obj\Debug\net8.0-windows\refint\Tarea 1.dll
+C:\Users\Usuario\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\obj\Debug\net8.0-windows\Tarea 1.pdb
+C:\Users\Usuario\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\obj\Debug\net8.0-windows\Tarea 1.genruntimeconfig.cache
+C:\Users\Usuario\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\obj\Debug\net8.0-windows\ref\Tarea 1.dll
+C:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\bin\Debug\net8.0-windows\Tarea 1.exe
+C:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\bin\Debug\net8.0-windows\Tarea 1.deps.json
+C:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\bin\Debug\net8.0-windows\Tarea 1.runtimeconfig.json
+C:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\bin\Debug\net8.0-windows\Tarea 1.dll
+C:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\bin\Debug\net8.0-windows\Tarea 1.pdb
+C:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\obj\Debug\net8.0-windows\Tarea_1.CHAT.resources
+C:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\obj\Debug\net8.0-windows\Tarea 1.csproj.GenerateResource.cache
+C:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\obj\Debug\net8.0-windows\Tarea 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\obj\Debug\net8.0-windows\Tarea 1.AssemblyInfoInputs.cache
+C:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\obj\Debug\net8.0-windows\Tarea 1.AssemblyInfo.cs
+C:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\obj\Debug\net8.0-windows\Tarea 1.csproj.CoreCompileInputs.cache
+C:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\obj\Debug\net8.0-windows\Tarea 1.sourcelink.json
+C:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\obj\Debug\net8.0-windows\Tarea 1.dll
+C:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\obj\Debug\net8.0-windows\refint\Tarea 1.dll
+C:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\obj\Debug\net8.0-windows\Tarea 1.pdb
+C:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\obj\Debug\net8.0-windows\Tarea 1.genruntimeconfig.cache
+C:\Users\sebas\OneDrive\Documents\Universidad\TEC\Programacion\Datos 1\Tareas\Tarea-Extraclase-1--VS\Tarea 1\Tarea 1\obj\Debug\net8.0-windows\ref\Tarea 1.dll
